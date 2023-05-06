@@ -14,10 +14,12 @@ cd ArchInstall
 ```
 
 ### System Description
-This is completely automated arch install. It includes prompts to select your desired desktop environment, window manager, AUR helper, and whether to do a full or minimal install. The KDE and i3 desktop environments on arch include all the packages I use daily, plus some customizations. For the i3 desktop environment, the folders from ArchInstall/configs/ still need to be copied to the appropriate locations afterwards. For example;
+This is completely automated arch install. It includes prompts to select your desired desktop environment, window manager, AUR helper, and whether to do a full or minimal install. The KDE and i3 desktop environments on arch include all the packages I use daily, plus some customizations. If you want to use my configuration for the i3 desktop environment, you have to copy the folders from ArchInstall/configs/ to the appropriate paths. For example;
 
 #1: Run `sudo cp -r ArchInstall/configs/.config/* $HOME/.config/`
+
 #2: Run `sudo cp -r ArchInstall/tree/main/configs/usr/share/* /usr/share/`
+
 #3: Run `sudo cp -r ArchInstall/configs/etc/* /etc/`
 
 ## Troubleshooting
