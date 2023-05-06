@@ -14,7 +14,7 @@ cd ArchInstall
 ```
 
 ### System Description
-This is completely automated arch install. It includes prompts to select your desired desktop environment, window manager, AUR helper, and whether to do a full or minimal install. The KDE desktop environment on arch includes all the packages I use on a daily basis, as well as some customizations.
+This is completely automated arch install. It includes prompts to select your desired desktop environment, window manager, AUR helper, and whether to do a full or minimal install. The KDE and i3 desktop environments on arch include all the packages I use daily, plus some customizations. 
 
 ## Troubleshooting
 
