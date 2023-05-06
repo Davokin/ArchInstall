@@ -33,6 +33,7 @@ plasma-pa
 plasma-wayland-session
 powerdevil
 print-manager
+sddm-nordic-theme-git
 spectacle
 systemsettings
 xdg-desktop-portal-kde
