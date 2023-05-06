@@ -1,0 +1,17 @@
+brave-bin
+#nerd-fonts-fira-code
+ttf-meslo
+plymouth-git
+--END OF MINIMAL INSTALL--
+autojump
+bridge-utils
+dxvk-bin
+mangohud
+mangohud-common
+nordic-darker-standard-buttons-theme
+nordic-darker-theme
+nordic-kde-git
+nordic-theme
+ocs-url
+snapper-gui-git
+vde2
