@@ -20,7 +20,7 @@ This is completely automated arch install. It includes prompts to select your de
 
 #1: Run `sudo cp -r ArchInstall/configs/.config/* $HOME/.config/`
 
-#2: Run `sudo cp -r ArchInstall/tree/main/configs/usr/share/* /usr/share/`
+#2: Run `sudo cp -r ArchInstall/configs/usr/share/* /usr/share/`
 
 #3: Run `sudo cp -r ArchInstall/configs/etc/* /etc/`
 
