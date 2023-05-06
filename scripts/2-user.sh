@@ -5,12 +5,13 @@
 # @brief User customizations and AUR package installation.
 echo -ne "
 -------------------------------------------------------------------------
-██████╗  █████╗ ██╗   ██╗ ██████╗ ██╗  ██╗██╗███╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔═══██╗██║ ██╔╝██║████╗  ██║
-██║  ██║███████║██║   ██║██║   ██║█████╔╝ ██║██╔██╗ ██║
-██║  ██║██╔══██║╚██╗ ██╔╝██║   ██║██╔═██╗ ██║██║╚██╗██║
-██████╔╝██║  ██║ ╚████╔╝ ╚██████╔╝██║  ██╗██║██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+M""""""'YMM                   MMP"""""YMM MP""""""`MM 
+M  mmmm. `M                   M' .mmm. `M M  mmmmm..M 
+M  MMMMM  M .d8888b. dP   .dP M  MMMMM  M M.      `YM 
+M  MMMMM  M 88'  `88 88   d8' M  MMMMM  M MMMMMMM.  M 
+M  MMMM' .M 88.  .88 88 .88'  M. `MMM' .M M. .MMM'  M 
+M       .MM `88888P8 8888P'   MMb     dMM Mb.     .dM 
+MMMMMMMMMMM                   MMMMMMMMMMM MMMMMMMMMMM
 -------------------------------------------------------------------------
                     Automated Arch Linux Installer
                         SCRIPTHOME: ArchInstall
