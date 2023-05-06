@@ -22,6 +22,7 @@ echo -ne "
                     Automated Arch Linux Installer
 -------------------------------------------------------------------------
                 Scripts are in directory named ArchInstall
+exec "clear"
 "
     ( bash $SCRIPT_DIR/scripts/startup.sh )|& tee startup.log
       source $CONFIGS_DIR/setup.conf
