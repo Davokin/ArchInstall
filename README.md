@@ -3,6 +3,7 @@
 Download ArchISO from <https://archlinux.org/download/> and put on a USB drive with [Etcher](https://www.balena.io/etcher/), [Ventoy](https://www.ventoy.net/en/index.html), or [Rufus](https://rufus.ie/en/)
 
 
+
 ## Boot Arch ISO
 
 From initial Prompt type the following commands:
@@ -24,6 +25,7 @@ This is completely automated arch install. It includes prompts to select your de
 #3: Run `sudo cp -r ArchInstall/configs/etc/* /etc/`
 
 My configuration of the i3 desktop environment can be viewed here: __[i3wm_config](https://raw.githubusercontent.com/Davokin/dotfiles/main/screen/2022-11-14_12-45.png)__
+
 
 
 ## Troubleshooting
@@ -51,6 +53,7 @@ After unblocking the WiFi, you can connect to it. Go through these 5 steps:
 #5: Find your network, and run `station [device name] connect [network name]`, enter your password and run `exit`. You can test if you have internet connection by running `ping google.com`, and then Press Ctrl and C to stop the ping test.
 
 
+
 ## Reporting Issues
 
 An issue is easier to resolve if it contains a few important pieces of information.
@@ -59,6 +62,7 @@ An issue is easier to resolve if it contains a few important pieces of informati
 1. What commit/branch you used
 1. Where you were installing (VMWare, Virtualbox, Virt-Manager, Baremetal, etc)
     1. If a VM, what was the configuration used.
+
 
 
 ## Credits
