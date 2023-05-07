@@ -24,7 +24,7 @@ This is completely automated arch install. It includes prompts to select your de
 
 #3: Run `sudo cp -r ArchInstall/configs/etc/* /etc/`
 
-My configuration of the i3 desktop environment can be viewed here: __[i3wm_config](https://raw.githubusercontent.com/Davokin/dotfiles/main/screen/2022-11-14_12-45.png)__
+My configuration of the i3 desktop environment can be viewed here: __[i3wm_config](https://github.com/Davokin/dotfiles/blob/main/screenshot-wallpaper/screenshot/screenshot_i3.png?raw=true)__
 
 
 
